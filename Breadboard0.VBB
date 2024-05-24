@@ -1,0 +1,363 @@
+<breadboard type="Breadboard">
+<GX>
+<XOFFSET>-280</XOFFSET>
+<YOFFSET>-56</YOFFSET>
+<ZOOM> 1</ZOOM>
+</GX>
+	<properties>
+	</properties>
+
+	<components>
+		<component>
+			<X> 28</X>
+			<Y> 70</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>OpenVBBLibVB.Breadboard.Breadboard</class>
+				<properties>
+					<property>
+						<name>left</name>
+						<value>28</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>70</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>netlist</name>
+						<value></value>
+						<description>Connect component pins together using netlist</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 560</X>
+			<Y> 392</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>com.virtualbreadboard.sim.components.uVM.containers.ArduinoStandard</class>
+				<properties>
+					<property>
+						<name>Application</name>
+						<value>Manual</value>
+						<description>Application to execute (App)</description>
+					</property>
+					<property>
+						<name>Sketch</name>
+						<value>AutoDetect</value>
+						<description>The sketch to execute. </description>
+					</property>
+					<property>
+						<name>eeprom</name>
+						<value>com.virtualbreadboard.sim.components.uVM.aptImpls.GClass367</value>
+						<description>implements the persistance of the eeprom between files(512)</description>
+					</property>
+					<property>
+						<name>eeprom size</name>
+						<value>512</value>
+						<description>size of eeprom</description>
+					</property>
+					<property>
+						<name>Nets</name>
+						<value>ON</value>
+						<description>Are pin nets automatically assigned</description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>560</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>392</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>netlist</name>
+						<value></value>
+						<description>Connect component pins together using netlist</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 868</X>
+			<Y> 196</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>PushButton.VBBComponent</class>
+				<properties>
+					<property>
+						<name>PropertyBag</name>
+						<value>&lt;propBag&gt;
+&lt;PROPERTY name=&quot;WIDGET.PressRegion&quot; value=&quot;0&quot; /&gt;&lt;PROPERTY name=&quot;ID&quot; value=&quot;&quot; /&gt;&lt;PROPERTY name=&quot;netlist&quot; value=&quot;&quot; /&gt;&lt;PROPERTY name=&quot;ButtonFace&quot; value=&quot;brown&quot; /&gt;&lt;/propBag&gt;</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>PinDiagram</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>Definition</name>
+						<value>PushButton.VBBComponent</value>
+						<description>The Definition of the Component (visible = false)</description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>868</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>196</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>netlist</name>
+						<value></value>
+						<description>Connect component pins together using netlist</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ButtonFace</name>
+						<value>brown</value>
+						<description>Color</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 686</X>
+			<Y> 154</Y>
+			<rotation> 0</rotation>
+			<locked>False</locked>
+			<class>Segment7.VBBComponent</class>
+				<properties>
+					<property>
+						<name>PropertyBag</name>
+						<value>&lt;propBag&gt;
+&lt;PROPERTY name=&quot;ID&quot; value=&quot;&quot; /&gt;&lt;PROPERTY name=&quot;netlist&quot; value=&quot;&quot; /&gt;&lt;PROPERTY name=&quot;LED&quot; value=&quot;red&quot; /&gt;&lt;/propBag&gt;</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>PinDiagram</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>Definition</name>
+						<value>Segment7.VBBComponent</value>
+						<description>The Definition of the Component (visible = false)</description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>686</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>154</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>0</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>netlist</name>
+						<value></value>
+						<description>Connect component pins together using netlist</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>LED</name>
+						<value>red</value>
+						<description>Color</description>
+					</property>
+				</properties>
+
+		</component>
+		<component>
+			<X> 896</X>
+			<Y> 336</Y>
+			<rotation> 270</rotation>
+			<locked>False</locked>
+			<class>OpenVBBLibVB.Breadboard.Resistor</class>
+				<properties>
+					<property>
+						<name>Resistance</name>
+						<value>1k</value>
+						<description>Sets the value of the resistance in ohms </description>
+					</property>
+					<property>
+						<name>Spacing</name>
+						<value>4</value>
+						<description>Sets the spacing the resistor in hundreds of mil</description>
+					</property>
+					<property>
+						<name>Function</name>
+						<value>normal</value>
+						<description>Determines the runtime function of the resistor</description>
+					</property>
+					<property>
+						<name>left</name>
+						<value>896</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>top</name>
+						<value>336</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>orientation</name>
+						<value>270</value>
+						<description>(visible = false)</description>
+					</property>
+					<property>
+						<name>ID</name>
+						<value></value>
+						<description>The part number to appear in the BOM</description>
+					</property>
+					<property>
+						<name>netlist</name>
+						<value></value>
+						<description>Connect component pins together using netlist</description>
+					</property>
+					<property>
+						<name>FabID</name>
+						<value></value>
+						<description>(visible = false)</description>
+					</property>
+				</properties>
+
+		</component>
+	</components>
+	<links>
+			<g id="NETLIST_REPRESENTATION" stroke="blue" stroke-width="1">
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 798" y1=" 406" x2=" 798" y2=" 322" width=" 3" layer="" />
+				<line x1=" 798" y1=" 322" x2=" 812" y2=" 322" width=" 3" layer="" />
+				<line x1=" 812" y1=" 322" x2=" 812" y2=" 140" width=" 3" layer="" />
+				<line x1=" 812" y1=" 140" x2=" 770" y2=" 140" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" virtual="False" stroke-width=" 3">
+				<line x1=" 434" y1=" 336" x2=" 434" y2=" 714" width=" 3" layer="" />
+				<line x1=" 434" y1=" 714" x2=" 784" y2=" 714" width=" 3" layer="" />
+				<line x1=" 784" y1=" 714" x2=" 784" y2=" 672" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="red" virtual="False" stroke-width=" 3">
+				<line x1=" 448" y1=" 350" x2=" 448" y2=" 700" width=" 3" layer="" />
+				<line x1=" 448" y1=" 700" x2=" 756" y2=" 700" width=" 3" layer="" />
+				<line x1=" 756" y1=" 700" x2=" 756" y2=" 672" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" virtual="False" stroke-width=" 3">
+				<line x1=" 420" y1=" 336" x2=" 420" y2=" 84" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 756" y1=" 406" x2=" 756" y2=" 294" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 770" y1=" 406" x2=" 770" y2=" 308" width=" 3" layer="" />
+				<line x1=" 770" y1=" 308" x2=" 798" y2=" 308" width=" 3" layer="" />
+				<line x1=" 798" y1=" 308" x2=" 798" y2=" 154" width=" 3" layer="" />
+				<line x1=" 798" y1=" 154" x2=" 756" y2=" 154" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 742" y1=" 406" x2=" 742" y2=" 322" width=" 3" layer="" />
+				<line x1=" 742" y1=" 322" x2=" 728" y2=" 322" width=" 3" layer="" />
+				<line x1=" 728" y1=" 322" x2=" 728" y2=" 294" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 728" y1=" 406" x2=" 728" y2=" 336" width=" 3" layer="" />
+				<line x1=" 728" y1=" 336" x2=" 714" y2=" 336" width=" 3" layer="" />
+				<line x1=" 714" y1=" 336" x2=" 714" y2=" 294" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 714" y1=" 406" x2=" 714" y2=" 350" width=" 3" layer="" />
+				<line x1=" 714" y1=" 350" x2=" 700" y2=" 350" width=" 3" layer="" />
+				<line x1=" 700" y1=" 350" x2=" 700" y2=" 154" width=" 3" layer="" />
+				<line x1=" 700" y1=" 154" x2=" 728" y2=" 154" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 700" y1=" 406" x2=" 700" y2=" 364" width=" 3" layer="" />
+				<line x1=" 700" y1=" 364" x2=" 686" y2=" 364" width=" 3" layer="" />
+				<line x1=" 686" y1=" 364" x2=" 686" y2=" 140" width=" 3" layer="" />
+				<line x1=" 686" y1=" 140" x2=" 714" y2=" 140" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="green" virtual="False" stroke-width=" 3">
+				<line x1=" 868" y1=" 406" x2=" 868" y2=" 280" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" virtual="False" stroke-width=" 3">
+				<line x1=" 434" y1=" 84" x2=" 742" y2=" 84" width=" 3" layer="" />
+				<line x1=" 742" y1=" 84" x2=" 742" y2=" 140" width=" 3" layer="" />
+			</g>
+			<g czoom=" 1" stroke="black" virtual="False" stroke-width=" 3">
+				<line x1=" 476" y1=" 336" x2=" 476" y2=" 308" width=" 3" layer="" />
+				<line x1=" 476" y1=" 308" x2=" 742" y2=" 308" width=" 3" layer="" />
+				<line x1=" 742" y1=" 308" x2=" 742" y2=" 294" width=" 3" layer="" />
+			</g>
+		</g>
+		<g id="JUNCTIONS" stroke="black" fill="black">
+		</g>
+
+	</links>
+</breadboard>

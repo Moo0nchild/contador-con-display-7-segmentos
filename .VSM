@@ -1,0 +1,24 @@
+<VBBSolution name="Contador decimal" perspective="VBB-Studio">
+	<LAYOUT currentView="0" >
+	<VIEW id="1">
+		<PANE>[Contador decimal]Source0.SRC</PANE>
+	</VIEW>
+	<VIEW id="2">
+		<PANE>[Contador decimal]Source0.SRC</PANE>
+	</VIEW>
+	<VIEW id="3">
+		<PANE>[Contador decimal]Source0.SRC</PANE>
+	</VIEW>
+	</LAYOUT>
+<PROJECTS>
+<PROJECT>Contador decimal.SIM</PROJECT>
+<REFERENCES>
+<VBB-EXCLUDES>
+</VBB-EXCLUDES>
+<USER-INCLUDES>
+</USER-INCLUDES>
+<WEB-INCLUDES>
+</WEB-INCLUDES>
+</REFERENCES>
+</PROJECTS>
+</VBBSolution>
